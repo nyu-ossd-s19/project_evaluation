@@ -11,22 +11,21 @@ __Project Name:__  phaser.io
 
 In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
-may be very hard to find. Do not _google_ for answers.
-
-__Project website:__
-
-
-__What is the purpose of the project:__
+may be very hard to find. Do not _google_ for answers.hp
+a
 
 
-__How easy was it to find information about contributing on the website?__
+__What is the purpose of the project:__ phaser is a opens HTML5 game framework
 
 
-__Contributing instructions:__
+__How easy was it to find information about contributing on the website?__ it was pretty easy. It was stated in the readme file
 
-__URL for the code repository:__
 
-__Bug/Issue tracker link:__
+__Contributing instructions:__ if you find a bug, reprot it on github issue and make sure you run your code through ES lint before pull request 
+
+__URL for the code repository:__ https://github.com/photonstorm/phaser
+
+__Bug/Issue tracker link:__ 
 
 __Mailing list:__
 
