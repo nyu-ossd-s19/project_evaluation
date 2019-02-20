@@ -70,9 +70,9 @@ __Number of contributors:__ 370+
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [minrk] (https://github.com/jupyter/notebook/pull/4287)
-2.[jdfreder] (https://github.com/jupyter/notebook/commit/72eeb99ad6f234467d561e2ebfc79343c35aa2b2)
-3.[]
+1. 
+2. 
+3.
 
 
 __Number of commits:__
