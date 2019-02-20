@@ -25,13 +25,13 @@ __Contributing instructions:__ if you find a bug, report it on github issue and 
 
 __URL for the code repository:__ https://github.com/photonstorm/phaser
 
-__Bug/Issue tracker link:__ 
+__Bug/Issue tracker link:__  https://github.com/photonstorm/phaser/issues
 
-__Mailing list:__
+__Mailing list:__ does not seem to work 
 
-__Chat channel:__
+__Chat channel:__ 
 
-__Other communication channels:__
+__Other communication channels:__ https://phaser.discourse.group/
 
 
 ---

@@ -119,35 +119,29 @@ __Issues__
     
     - __look at a few of them, do you think you could submit a fix?__ 
 
-
-
 __Pull requests__
 
-- __how many open pull requests are there:__
+__-how many open pull requests are there:__ 12
 
-    - __url for the last pull request created:__
-    
-    - __when was the last pull request made:__
+__-url for the last pull request created:__ https://github.com/Netflix/conductor/pull/1002
 
-    - __url for the oldest pull request created:__
-    
-    - __when was the oldest pull request made:__
+__-when was the last pull request made:__ 4 minutes ago (and counting)
 
-- __how many closed pull requests are there:__
+__-url for the oldest pull request created:__ https://github.com/Netflix/conductor/pull/1
 
-    - __url for the last pull request closed:__
-    
-    - __how many users discussed the pull request:__
-    
-    - __when was the pull request made:__
-    
-    - __when was the pull request closed:__
-    
+__-when was the oldest pull request made:__ December 7, 2016
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+__-how many closed pull requests are there:__ 416
 
+__-url for the last pull request closed:__ https://github.com/Netflix/conductor/pull/1001
 
+__-how many users discussed the pull request:__ 4 users
 
+__-when was the pull request made:__ One day ago
+
+__-when was the pull request closed:__ One day ago
+
+__-do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ---
