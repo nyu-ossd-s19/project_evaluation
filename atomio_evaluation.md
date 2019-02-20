@@ -82,10 +82,13 @@ each of them list the link to their latest commit__:
 
 
 __Number of commits:__
+36,105
 
 __Latest commit__
+Merging a pull request (#18844)
 
 - __link to the commit:__
+https://github.com/atom/atom/commit/41a180b9d0fffb037c121094fe0ac8817848d4de
 
 - __who made that commit:__
 
