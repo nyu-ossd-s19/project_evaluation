@@ -49,7 +49,7 @@ __License:__
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
 
-__Programming Language:__
+__Programming Language:__ JavaScript
 
 __URL for contributing instructions:__ 
 
@@ -64,7 +64,7 @@ __URL for instructions for users to download and install the package:__
 __Are these instructions clear? Do you think they would be easy to follow?__
 
 
-__Number of contributors:__
+__Number of contributors:__ 370+
 
 
 __Usernames of three contributors with largest number of commits; for
