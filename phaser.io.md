@@ -15,17 +15,17 @@ may be very hard to find. Do not _google_ for answers.hp
 a
 
 
-__What is the purpose of the project:__ phaser is a opensource HTML5 game framework
+__What is the purpose of the project:__ phaser is a opens HTML5 game framework
 
 
 __How easy was it to find information about contributing on the website?__ it was pretty easy. It was stated in the readme file
 
 
-__Contributing instructions:__ if you find a bug, report it on github issue and make sure you run your code through ES lint before pull request 
+__Contributing instructions:__ if you find a bug, reprot it on github issue and make sure you run your code through ES lint before pull request 
 
 __URL for the code repository:__ https://github.com/photonstorm/phaser
 
-__Bug/Issue tracker link:__ 
+__Bug/Issue tracker link:__ https://github.com/photonstorm/phaser/issues
 
 __Mailing list:__
 
@@ -44,7 +44,7 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
 
 __Programming Language:__
 
-__URL for contributing instructions:__ 
+__URL for contributing instructions:__ https://github.com/photonstorm/phaser/blob/master/.github/CONTRIBUTING.md
 
 __Are the contributing instructions clear?__ 
 
