@@ -2,7 +2,7 @@
 
 
 
-__Project Name: Terasology
+__Project Name:__ Terasology
 
 
 ---
@@ -13,18 +13,18 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website: https://terasology.org/index.html
+__Project website:__ https://terasology.org/index.html
 
 
-__What is the purpose of the project: To be a hackable and modular version of Minecraft
+__What is the purpose of the project:__ To be a hackable and modular version of Minecraft
 
 
-__How easy was it to find information about contributing on the website? The project publicizes that they welcome contributions, but the actual guidelines are missing from the website.
+__How easy was it to find information about contributing on the website?__ The project publicizes that they welcome contributions, but the actual guidelines are missing from the website.
 
 
-__Contributing instructions: Fork and clone the repository, then use Gradle to fetch modules that is being worked on before making changes, then push changes.
+__Contributing instructions:__ Fork and clone the repository, then use Gradle to fetch modules that is being worked on before making changes, then push changes.
 
-__URL for the code repository: https://github.com/MovingBlocks/Terasology
+__URL for the code repository:__ https://github.com/MovingBlocks/Terasology
 
 __Bug/Issue tracker link:__ https://github.com/MovingBlocks/Terasology/issues
 
@@ -113,38 +113,38 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 159 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes, some of them entail writing tutorials or adding screenshots.
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ 30
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ https://github.com/MovingBlocks/Terasology/pull/3612
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ 2/7/2019
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ https://github.com/MovingBlocks/Terasology/pull/49
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ 11/5/2011
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ 1901
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ https://github.com/MovingBlocks/Terasology/pull/3617
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ 4 users
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__ 2/14/2019
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ 2/17/2019
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes.
 
 
 
@@ -154,18 +154,18 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Quite friendly, there are a variety of different topics for different people, and many issues are marked for beginners. The maintainers are active and friendly.
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes, the maintainers are active and knowledgeable in nearly all the topics that are present.
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-__Do pull requests get reviewed?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, the forum is quite welcoming to newcomers and veterans alike.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do pull requests get reviewed?__ Yes, there are nearly 2000 closed pull requests in the project.
+
+
+
+__Do maintainers thank people for their contributions?__ Yes, the maintainers are quite friendly and thank everyone for their contributions.
