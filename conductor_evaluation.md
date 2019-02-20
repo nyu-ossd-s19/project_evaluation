@@ -119,29 +119,29 @@ __Issues__
     
     - __look at a few of them, do you think you could submit a fix?__ 
 
-__Pull requests__
+-__Pull requests__
 
-__-how many open pull requests are there:__ 12
+-__how many open pull requests are there:__ 12
 
-__-url for the last pull request created:__ https://github.com/Netflix/conductor/pull/1002
+-__url for the last pull request created:__ https://github.com/Netflix/conductor/pull/1002
 
-__-when was the last pull request made:__ 4 minutes ago (and counting)
+-__when was the last pull request made:__ 4 minutes ago (and counting)
 
-__-url for the oldest pull request created:__ https://github.com/Netflix/conductor/pull/1
+-__url for the oldest pull request created:__ https://github.com/Netflix/conductor/pull/1
 
-__-when was the oldest pull request made:__ December 7, 2016
+-__when was the oldest pull request made:__ December 7, 2016
 
-__-how many closed pull requests are there:__ 416
+-__how many closed pull requests are there:__ 416
 
-__-url for the last pull request closed:__ https://github.com/Netflix/conductor/pull/1001
+-__url for the last pull request closed:__ https://github.com/Netflix/conductor/pull/1001
 
-__-how many users discussed the pull request:__ 4 users
+-__how many users discussed the pull request:__ 4 users
 
-__-when was the pull request made:__ One day ago
+-__when was the pull request made:__ One day ago
 
-__-when was the pull request closed:__ One day ago
+-__when was the pull request closed:__ One day ago
 
-__-do maintainers respond quickly to pull requests when they are opened?__ Yes
+-__do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 ---
@@ -158,8 +158,8 @@ __Are people friendly in the issues, discussion forum, and chat (for example, IR
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ Yes.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ No, but they are responsive and helpful if a contributor has doubts.
