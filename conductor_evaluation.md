@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__ Netflix Conductor
 
 
 ---
@@ -13,16 +13,16 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website:__ https://netflix.github.io/conductor/
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ To orchestrate deployment and management and monitoring of microservices.
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ Easy. There was a link to their GitHub on their website and on their README.md they included information on how to contribute. Moreover, there is a CONTRIBUTING.md file.
 
 
-__Contributing instructions:__
+__Contributing instructions:__ 
 
 __URL for the code repository:__
 
