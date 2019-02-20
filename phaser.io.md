@@ -25,13 +25,13 @@ __Contributing instructions:__ if you find a bug, report it on github issue and 
 
 __URL for the code repository:__ https://github.com/photonstorm/phaser
 
-__Bug/Issue tracker link:__ 
+__Bug/Issue tracker link:__  https://github.com/photonstorm/phaser/issues
 
-__Mailing list:__
+__Mailing list:__ does not seem to work 
 
-__Chat channel:__
+__Chat channel:__ https://phaser.io/community/slack
 
-__Other communication channels:__
+__Other communication channels:__ https://phaser.discourse.group/
 
 
 ---
@@ -63,44 +63,44 @@ __Number of contributors:__ 400
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.photonstorm 
-2.pavle-goloskokovic
-3.bitnenfer
+1.photonstorm    https://github.com/photonstorm/phaser/commit/376f06d2a93424bc3d6e7f491f0f23e4485e4d39
+2.pavle-goloskokovic  https://github.com/photonstorm/phaser/commit/116e62fafe3ba0b08f3bf2b94acd10d2fd9fca9a
+3.bitnenfer  https://github.com/photonstorm/phaser/commit/de7568acbb1cb35a20467be9e02732af40a3e1c2
 
 
-__Number of commits:__
+__Number of commits:__ 12234
 
-__Latest commit__
+__Latest commit__ Feb 15, 2019
 
-- __link to the commit:__
+- __link to the commit:__ https://github.com/photonstorm/phaser/commit/376f06d2a93424bc3d6e7f491f0f23e4485e4d39
 
-- __who made that commit:__
+- __who made that commit:__ photonstorm
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ it was for update on the project
 
 
 __Issues__
 
-- __how many open issues are there:__ 176
+- __how many open issues are there:__
 
-    - __url for the last issue created:__ https://github.com/photonstorm/phaser/issues/4385
+    - __url for the last issue created:__
 
-    - __how many users discuss the issue:__ 0
+    - __how many users discuss the issue:__
     
-    - __when was the issue reported:__ 1 minute ago
+    - __when was the issue reported:__
     
 
-- __how many closed issues are there:__ 2549
-    - __url for the last issue closed:__ https://github.com/photonstorm/phaser/issues/4382
-    - __how many users discussed the issue:__ 2
-    - __when was the issue reported:__ 1 day ago
-    - __when was the issue closed:__ 1 day ago
+- __how many closed issues are there:__
+    - __url for the last issue closed:__
+    - __how many users discussed the issue:__
+    - __when was the issue reported:__
+    - __when was the issue closed:__
 
-- __how active is the discussion on the issues:__ semi-active
+- __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ https://github.com/photonstorm/phaser/issues/4362
+    - __example of a lot of good discussion:__ 
     
-    - __example of an issue that does not have much discussion:__ https://github.com/photonstorm/phaser/issues/4359
+    - __example of an issue that does not have much discussion:__
 
 
 
@@ -112,38 +112,38 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ yes, "Difficulty: easy" is used
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
 
-    - __how many of such issues are there?__ 0 open, 14 closed
+    - __how many of such issues are there?__
     
-    - __look at a few of them, do you think you could submit a fix?__ We could probably fix a few, like this one https://github.com/photonstorm/phaser/issues/3648.
+    - __look at a few of them, do you think you could submit a fix?__ 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ 30 
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ https://github.com/photonstorm/phaser/pull/4384
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ 7 hours ago
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ https://github.com/photonstorm/phaser/pull/3551
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ April 12, 2018 
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ 1596
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ https://github.com/photonstorm/phaser/pull/4350
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ 1
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__ 13 days ago   
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ 12 days ago 
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ I believe they do
 
 
 
