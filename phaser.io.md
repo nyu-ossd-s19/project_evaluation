@@ -15,17 +15,17 @@ may be very hard to find. Do not _google_ for answers.hp
 a
 
 
-__What is the purpose of the project:__ phaser is a opens HTML5 game framework
+__What is the purpose of the project:__ phaser is a opensource HTML5 game framework
 
 
 __How easy was it to find information about contributing on the website?__ it was pretty easy. It was stated in the readme file
 
 
-__Contributing instructions:__ if you find a bug, reprot it on github issue and make sure you run your code through ES lint before pull request 
+__Contributing instructions:__ if you find a bug, report it on github issue and make sure you run your code through ES lint before pull request 
 
 __URL for the code repository:__ https://github.com/photonstorm/phaser
 
-__Bug/Issue tracker link:__ https://github.com/photonstorm/phaser/issues
+__Bug/Issue tracker link:__ 
 
 __Mailing list:__
 
@@ -38,34 +38,34 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__
+__License:__  MIT
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ yes 
 
-__Programming Language:__
+__Programming Language:__  javascript
 
-__URL for contributing instructions:__ https://github.com/photonstorm/phaser/blob/master/.github/CONTRIBUTING.md
+__URL for contributing instructions:__  https://github.com/photonstorm/phaser/blob/master/.github/CONTRIBUTING.md
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__
-
-__URL for instructions for users to download and install the package:__
+__Are the contributing instructions clear?__ yes they are very thorough 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__
+__URL for code of conduct / community norms / community guildelines:__  https://github.com/photonstorm/phaser/blob/master/.github/CODE_OF_CONDUCT.md
+
+__URL for instructions for users to download and install the package:__ https://github.com/photonstorm/phaser it is at the readme
 
 
-__Number of contributors:__
+__Are these instructions clear? Do you think they would be easy to follow?__ yes they are precise
+
+
+__Number of contributors:__ 400
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+1.photonstorm 
+2.pavle-goloskokovic
+3.bitnenfer
 
 
 __Number of commits:__
