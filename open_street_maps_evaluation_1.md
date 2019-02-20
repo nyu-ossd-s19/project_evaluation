@@ -28,7 +28,7 @@ __URL for the code repository:__
 
 __Bug/Issue tracker link:__
 
-__Mailing list:__
+__Mailing list:__ test
 
 __Chat channel:__
 
