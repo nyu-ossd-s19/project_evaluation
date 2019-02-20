@@ -23,61 +23,56 @@ __How easy was it to find information about contributing on the website?__ While
 
 __Contributing instructions:__ In their wiki, there is a lot of information on how to set up a development workspace, what to contribute on, and more. However, they don't have specifics on what format they want contributions to be in. As long as you have Java 8 SDK running with Gradle, you can follow the wiki instructions to get started immediately. They have forums for feature suggestions, but no specific templates for pull requests or issue reports.
 
-__URL for the code repository:__
+__URL for the code repository:__ https://github.com/MovingBlocks/Terasology
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ https://github.com/MovingBlocks/Terasology/issues
 
-__Mailing list:__
+__Mailing list:__ Not available
 
-__Chat channel:__
+__Chat channel:__ [Discord](https://discordapp.com/invite/Terasology) and [Freenode Webchat](http://webchat.freenode.net/?channels=terasology&uio=d4?channels=%23terasology&nick=Terasologist...&prompt=1&useUserListIcons=true)
 
-__Other communication channels:__
+__Other communication channels:__ [Forums](https://forum.terasology.org/) and [subeddit](https://www.reddit.com/r/terasology) and [Facebook](https://www.facebook.com/Terasology) and [Twitter](https://www.twitter.com/Terasology)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__
+__License:__ Apache Version 2.0
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language:__
+__Programming Language:__ Java
 
-__URL for contributing instructions:__ 
+__URL for contributing instructions:__ [Contributing Instructions](https://github.com/MovingBlocks/Terasology/wiki#contributing)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ There are clear instructions on how to set up and what to contribute, but no specific templates for pull requests or issues. 
 
+__URL for code of conduct / community norms / community guildelines:__ [Code Of Conduct](https://github.com/MovingBlocks/Terasology/blob/develop/docs/Conduct.md)
 
-__URL for code of conduct / community norms / community guildelines:__
+__URL for instructions for users to download and install the package:__ [Developer Quickstart](https://github.com/MovingBlocks/Terasology/wiki/Dev-Setup)
 
-__URL for instructions for users to download and install the package:__
+__Are these instructions clear? Do you think they would be easy to follow?__ They are very straightforward and easy to follow.
 
-
-__Are these instructions clear? Do you think they would be easy to follow?__
-
-
-__Number of contributors:__
-
+__Number of contributors:__ 212!!!
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+1.[immortius](https://github.com/MovingBlocks/Terasology/commit/90283c37346787518d787df0825d28a8ff326aed)
+2.[begla](https://github.com/MovingBlocks/Terasology/commit/aeb1f56adf83048cb2aec7bbd9c5376885fc6944)
+3.[Cervator](https://github.com/MovingBlocks/Terasology/commit/1b3495f7f816a0daa3b496cd291e9ef75baaf651) 
 
 
-__Number of commits:__
+__Number of commits:__ 9,144
 
 __Latest commit__
 
-- __link to the commit:__
+- __link to the commit:__ https://github.com/MovingBlocks/Terasology/commit/1b3495f7f816a0daa3b496cd291e9ef75baaf651
 
-- __who made that commit:__
+- __who made that commit:__ Cervator
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+- __what type of work was commited?__ it was a merge request for a UI change
 
 __Issues__
 
