@@ -123,28 +123,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ 39
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ https://github.com/oppia/oppia/pull/6300
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ 11 hours ago
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ https://github.com/oppia/oppia/pull/894
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ Aug 15, 2015
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ 3195
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ https://github.com/oppia/oppia/pull/6293
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ 2
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__ 2 days ago
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ 2 days ago
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 
@@ -154,21 +154,21 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Not too friendly in terms of the technicality of the issues
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes, very quickly. 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-__Do pull requests get reviewed?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, very friendly.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do pull requests get reviewed?__ Mostly, yes. 
+
+
+
+__Do maintainers thank people for their contributions?__ Yes.
 
 
 
