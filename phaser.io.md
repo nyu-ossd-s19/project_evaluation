@@ -29,7 +29,7 @@ __Bug/Issue tracker link:__  https://github.com/photonstorm/phaser/issues
 
 __Mailing list:__ does not seem to work 
 
-__Chat channel:__ 
+__Chat channel:__ https://phaser.io/community/slack
 
 __Other communication channels:__ https://phaser.discourse.group/
 
