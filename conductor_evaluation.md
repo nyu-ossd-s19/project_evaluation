@@ -25,12 +25,12 @@ __How easy was it to find information about contributing on the website?__ Easy.
 __Contributing instructions:__ The active development branch is dev, the stable branch is master.
 Contributions will be accepted to the dev only.
 1. If it is a major feature, please create an Issue and discuss with the project leaders.
-2. If in step 1 you get an acknowledge from the project leaders, use the following procedure to submit a patch:
-    a. Fork Dynomite on github ( http://help.github.com/fork-a-repo/ )
-    b. Create a topic branch (git checkout -b my_branch)
-    c. Push to your branch (git push origin my_branch)
-    d. Initiate a pull request on github ( http://help.github.com/send-pull-requests/ )
-    e. Done :)
+2. If in step 1 you get an acknowledge from the project leaders, use the following procedure to submit a patch:  
+    a. Fork Dynomite on github ( http://help.github.com/fork-a-repo/ )  
+    b. Create a topic branch (git checkout -b my_branch)  
+    c. Push to your branch (git push origin my_branch)  
+    d. Initiate a pull request on github ( http://help.github.com/send-pull-requests/ )  
+    e. Done :)  
 For minor fixes just open a pull request to the dev branch on Github.
 
 __URL for the code repository:__ https://github.com/Netflix/conductor
