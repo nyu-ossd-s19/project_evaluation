@@ -45,9 +45,9 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__
+__License:__ 3-Clause BSD
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
 __Programming Language:__ JavaScript
 
