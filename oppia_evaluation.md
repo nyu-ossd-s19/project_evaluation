@@ -2,7 +2,7 @@
 
 
 
-Project Name: Oppia
+__Project Name:__ Oppia
 
 
 ---
@@ -13,22 +13,22 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website:__ https://www.oppia.org/splash
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ To create interactive lessons that educate and engage and enhance the learning experience. 
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ Very easy. The README has it all. 
 
 
-__Contributing instructions:__
+__Contributing instructions:__ https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia#setting-things-up
 
-__URL for the code repository:__
+__URL for the code repository:__ https://github.com/oppia/oppia
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ https://github.com/oppia/oppia/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+debugging%22
 
-__Mailing list:__
+__Mailing list:__ http://groups.google.com/group/oppia-dev
 
 __Chat channel:__
 
