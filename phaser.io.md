@@ -154,7 +154,7 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+test
 
 __Do the maintainers respond helpfully to questions in issues?__
 
