@@ -85,70 +85,95 @@ __Number of commits:__
 36,105
 
 __Latest commit__
-Merging a pull request (#18844)
+41a180b: Merging a pull request (#18844)
 
 - __link to the commit:__
 https://github.com/atom/atom/commit/41a180b9d0fffb037c121094fe0ac8817848d4de
 
 - __who made that commit:__
+simurai
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+Merging a pull request (#18844)
 
 
 __Issues__
 
 - __how many open issues are there:__
+598
 
     - __url for the last issue created:__
+    https://github.com/atom/atom/issues/18882
 
     - __how many users discuss the issue:__
+    1
     
     - __when was the issue reported:__
+    13 hours ago (02/20)
     
 
 - __how many closed issues are there:__
+13,803
     - __url for the last issue closed:__
+    https://github.com/atom/atom/issues/18878
     - __how many users discussed the issue:__
+    2
     - __when was the issue reported:__
+    22 hours ago (02/19)
     - __when was the issue closed:__
+    21 hours ago (02/19)
 
 - __how active is the discussion on the issues:__ 
+Active, but short. 
 
     - __example of a lot of good discussion:__ 
+    https://github.com/atom/atom/issues/18829
     
     - __example of an issue that does not have much discussion:__
+    https://github.com/atom/atom/issues/18882
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
-
+They have a tag for it, but there is only one from 5 years ago, that is still open. 
     - __how many of such issues are there?__
+    One.
     
     - __look at a few of them, do they look beginner friendly?__ 
+    It is a strange case, since it's been open for 5 years. 
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+Yes.
 
     - __how many of such issues are there?__
+    8
     
     - __look at a few of them, do you think you could submit a fix?__ 
+    Perhaps, but not likely. They mention really specific deep functions that require a lot of project relevant details.  
 
 
 
 __Pull requests__
 
 - __how many open pull requests are there:__
+130
 
     - __url for the last pull request created:__
+    https://github.com/atom/atom/pull/18866
     
     - __when was the last pull request made:__
+    3 days ago
 
     - __url for the oldest pull request created:__
+    https://github.com/atom/atom/pull/6712
     
     - __when was the oldest pull request made:__
+    May 9, 2015
 
 - __how many closed pull requests are there:__
+
 
     - __url for the last pull request closed:__
     
