@@ -13,10 +13,10 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website: [https://www.openstreetmap.org/#map=4/38.01/-95.84](https://www.openstreetmap.org/#map=4/38.01/-95.84)__
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project: __
 
 
 __How easy was it to find information about contributing on the website?__
@@ -28,7 +28,7 @@ __URL for the code repository:__
 
 __Bug/Issue tracker link:__
 
-__Mailing list:__ test
+__Mailing list:__
 
 __Chat channel:__
 
