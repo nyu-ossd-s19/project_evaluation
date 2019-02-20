@@ -63,20 +63,20 @@ __Number of contributors:__ 400
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.photonstorm 
-2.pavle-goloskokovic
-3.bitnenfer
+1.photonstorm    https://github.com/photonstorm/phaser/commit/376f06d2a93424bc3d6e7f491f0f23e4485e4d39
+2.pavle-goloskokovic  https://github.com/photonstorm/phaser/commit/116e62fafe3ba0b08f3bf2b94acd10d2fd9fca9a
+3.bitnenfer  https://github.com/photonstorm/phaser/commit/de7568acbb1cb35a20467be9e02732af40a3e1c2
 
 
-__Number of commits:__
+__Number of commits:__ 12234
 
-__Latest commit__
+__Latest commit__ Feb 15, 2019
 
-- __link to the commit:__
+- __link to the commit:__ https://github.com/photonstorm/phaser/commit/376f06d2a93424bc3d6e7f491f0f23e4485e4d39
 
-- __who made that commit:__
+- __who made that commit:__ photonstorm
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ it was for update on the project
 
 
 __Issues__
