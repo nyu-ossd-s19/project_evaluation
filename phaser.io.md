@@ -81,34 +81,34 @@ __Latest commit__ Feb 15, 2019
 
 __Issues__
 
-- __how many open issues are there:__
+- __how many open issues are there:__ 176
 
-    - __url for the last issue created:__
+    - __url for the last issue created:__ https://github.com/photonstorm/phaser/issues/4385
 
-    - __how many users discuss the issue:__
+    - __how many users discuss the issue:__ 0
     
-    - __when was the issue reported:__
+    - __when was the issue reported:__ 1 minute ago
     
 
-- __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__
+- __how many closed issues are there:__ 2549
+    - __url for the last issue closed:__ https://github.com/photonstorm/phaser/issues/4382
+    - __how many users discussed the issue:__ 2
+    - __when was the issue reported:__ 1 day ago
+    - __when was the issue closed:__ 1 day ago
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Relatively active, more at some times than others.
 
-    - __example of a lot of good discussion:__ 
+    - __example of a lot of good discussion:__ https://github.com/photonstorm/phaser/issues/4362
     
-    - __example of an issue that does not have much discussion:__
+    - __example of an issue that does not have much discussion:__ https://github.com/photonstorm/phaser/issues/4359
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes - "Difficulty: easy" is the label used.
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 0 open, 14 closed
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes.
 
 
 
@@ -154,7 +154,7 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-test
+
 
 __Do the maintainers respond helpfully to questions in issues?__
 
