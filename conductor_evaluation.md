@@ -80,55 +80,58 @@ each of them list the link to their latest commit__:
 3. vmg - https://github.com/Netflix/conductor/commit/222faa1a5ed5d493d316154796d0ecf14f8cb82e
 
 
-__Number of commits:__
+__Number of commits:__ 1485
 
 __Latest commit__
 
-- __link to the commit:__
+- __link to the commit:__ (here)[https://github.com/Netflix/conductor/commit/5cf3f461e4a9023c102708fe1a2dd7d3ddf59110]
 
-- __who made that commit:__
+- __who made that commit:__ A Netflix employee (maintainer)
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) 
+    Modification of a feature
 
 
 __Issues__
 
-- __how many open issues are there:__
+- __how many open issues are there:__ 134
 
-    - __url for the last issue created:__
+    - __url for the last issue created:__ (here)[https://github.com/Netflix/conductor/issues/999]
 
-    - __how many users discuss the issue:__
+    - __how many users discuss the issue:__ 0
     
-    - __when was the issue reported:__
+    - __when was the issue reported:__ 1 day ago (2/19/19)
     
 
 - __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__
+    - __url for the last issue closed:__ (here)[https://github.com/Netflix/conductor/issues/1000]
+    - __how many users discussed the issue:__ 3
+    - __when was the issue reported:__ 1 day ago (2/19/19)
+    - __when was the issue closed:__ 1 day ago (2/19/19)
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ 
+    - __example of a lot of good discussion:__ (lots of welcoming discourse)[https://github.com/Netflix/conductor/issues/14]
     
-    - __example of an issue that does not have much discussion:__
+    - __example of an issue that does not have much discussion:__(contributor tracking an issue themselves here while they work on its solution)[https://github.com/Netflix/conductor/issues/78]
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ no
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 0
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ 0
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ no
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 0
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ 0
+
+---
 
 -__Pull requests__
 
@@ -158,15 +161,17 @@ __Issues__
 ---
 
 
-## Summary assesment
 __How friendly is this project for beginner contributors?__
 
+    The actual project itself is not a beginner project. The contribution guidelines are terse and do not include environment setup instructions - tho we don't know if they're necessary yet. They don't label beginner friendly or documentation-centric issues and so there are no clear starting points for beginner contributors.
 
 __Do the maintainers respond helpfully to questions in issues?__
 
+    It looks like they do. Due to the specific use-case of this project and its high barrier to entry usage-wise, the assumption is that there are not many inexperienced devs contributing or reporting issues. This means the maintainers are friendly and helpful but also assume issue reporters are also contributors or candidate contributors.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
+    People are friendly but not beginner-focused in the GitHub issues, which is the only place for discussion.
 
 
 __Do pull requests get reviewed?__ Yes.
