@@ -47,6 +47,7 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
+<<<<<<< HEAD
 __License:__
 [Creative Commons CCO License](https://github.com/jupyter/governance/blob/master/LICENSE.md)
 
@@ -58,6 +59,13 @@ __Programming Language:__
 * Python
 * CSS
 * HTML
+=======
+__License:__ 3-Clause BSD
+
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
+
+__Programming Language:__ JavaScript
+>>>>>>> ed3eb8accd7e40aa4246adcbdff772061790af5f
 
 __URL for contributing instructions:__ 
 [Contributing](https://github.com/jupyter/notebook/blob/master/CONTRIBUTING.rst)
@@ -74,15 +82,26 @@ __URL for instructions for users to download and install the package:__
 __Are these instructions clear? Do you think they would be easy to follow?__
 The installation instructions seem clear, extensive and easy to follow.
 
+<<<<<<< HEAD
 __Number of contributors:__
 There are 370+ contributors.
+=======
+__Number of contributors:__ 370+
+
+>>>>>>> ed3eb8accd7e40aa4246adcbdff772061790af5f
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
+<<<<<<< HEAD
 1. [minrk](https://github.com/jupyter/notebook/commit/31c2184d011e2a6b78d02f6039f0da4273a2cfb5)
 2. [jdfreder](https://github.com/jupyter/notebook/commit/72eeb99ad6f234467d561e2ebfc79343c35aa2b2)
 3. [Carreau](https://github.com/jupyter/notebook/commit/64fa7cf6748c6ba2965aadd337b7edb7bb26b306)
+=======
+1. 
+2. 
+3.
+>>>>>>> ed3eb8accd7e40aa4246adcbdff772061790af5f
 
 
 __Number of commits:__

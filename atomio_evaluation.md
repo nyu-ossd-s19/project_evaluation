@@ -2,8 +2,8 @@
 
 
 
-__Terasology:__  
-
+__Project Name:__  
+Atom.io
 
 ---
 
@@ -13,66 +13,82 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ https://terasology.org/
-
+__Project website:__
+https://atom.io
 
 __What is the purpose of the project:__
+"A hackable text editor for the 21st Century"; it's a text editor for coding that's customizable with a clean interface.
 
+__How easy was it to find information about contributing on the website?__
+It wasn't easy to find on the website, but there is one small section in their general guidelines for contributing. 
+The website seems to push usage instruction over contribution instructions.
 
-__How easy was it to find information about contributing on the website?__ While the contribution instructions were not on the website itself, it was very easy to navigate to them. If you go to their GitHub, there is a developer's section that links to their wiki. 
-
-__Contributing instructions:__ In their wiki, there is a lot of information on how to set up a development workspace, what to contribute on, and more. However, they don't have specifics on what format they want contributions to be in. As long as you have Java 8 SDK running with Gradle, you can follow the wiki instructions to get started immediately. They have forums for feature suggestions, but no specific templates for pull requests or issue reports.
+__Contributing instructions:__
+The website walks you through cloning the repository, installing dependencies, and forking one of the core repos.
 
 __URL for the code repository:__
+github.com/atom (specific repo is not linked to, there are a lot of them)
 
 __Bug/Issue tracker link:__
+Not provided
 
 __Mailing list:__
+There is a sign-in option but no mailing list immediately visible
 
 __Chat channel:__
+Provided a slack channel link: atom-slack.herokuapp.com
 
 __Other communication channels:__
-
+Twitter and forum are linked to
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
 __License:__
+MIT License
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+Yes
 
 __Programming Language:__
+JavaScript (predominantly), CoffeeScript
 
 __URL for contributing instructions:__ 
+github.com/atom/atom/blob/master/CONTRIBUTING.md
 
 __Are the contributing instructions clear?__ 
+Yes, very thorough.
 
 
 __URL for code of conduct / community norms / community guildelines:__
+github.com/atom/atom/blob/master/CODE_OF_CONDUCT.md
 
 __URL for instructions for users to download and install the package:__
-
+github.com/atom/atom
 
 __Are these instructions clear? Do you think they would be easy to follow?__
-
+Yes, they are easy to follow and include instructions for several operating systems.
 
 __Number of contributors:__
-
+427
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
-2.
-3.
+1. kevinsawicki: https://github.com/atom/atom/commit/52fb79172c1a2d9723108f5a309c958ae41878fb
+2. nathansobo: https://github.com/atom/atom/commit/c52d996d5427d9fb66b1b35ea779fc24a3e39b15
+3. benogle: https://github.com/atom/atom/commit/ea2d72f314e24f1aee8c336064986520e1877895
 
 
 __Number of commits:__
+36,105
 
 __Latest commit__
+Merging a pull request (#18844)
 
 - __link to the commit:__
+https://github.com/atom/atom/commit/41a180b9d0fffb037c121094fe0ac8817848d4de
 
 - __who made that commit:__
 
