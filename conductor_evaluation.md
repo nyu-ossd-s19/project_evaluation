@@ -30,7 +30,8 @@ Contributions will be accepted to the dev only.
     b. Create a topic branch (git checkout -b my_branch)  
     c. Push to your branch (git push origin my_branch)  
     d. Initiate a pull request on github ( http://help.github.com/send-pull-requests/ )  
-    e. Done :)  
+    e. Done :)    
+
 For minor fixes just open a pull request to the dev branch on Github.
 
 __URL for the code repository:__ https://github.com/Netflix/conductor
