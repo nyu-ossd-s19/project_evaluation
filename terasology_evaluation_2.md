@@ -135,22 +135,22 @@ __Pull requests__
     
     - __when was the last pull request made: 13 days ago__
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created: https://github.com/MovingBlocks/Terasology/pull/2823__
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made: March 12th, 2017__
 
 - __how many closed pull requests are there: 1,901__
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed: https://github.com/MovingBlocks/Terasology/pull/3617__
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request: 19__
     
-    - __when was the pull request made:__
+    - __when was the pull request made: 6 days ago__
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed: 3 days ago__
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened? Yes, it seems people tend to respond in the same day or within a few days.__ 
 
 
 
@@ -160,21 +160,21 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors? It honestly doesn't seem too friendly unless you're already familiar with game creation.__
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues? It seems that responses are either non-existent or quite helpful. It varies a lot.__
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-__Do pull requests get reviewed?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)? People do seem to be friendly and very open to communication.__
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do pull requests get reviewed? Pull requests do get reviewed.__
+
+
+
+__Do maintainers thank people for their contributions? People do get thanked, although it's not done explicitly too often. In general, it seems to be quite a friendly environment though, with lots of smiley faces.__
 
 
 
